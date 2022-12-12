@@ -1,0 +1,21 @@
+Calendar integration
+List of members and their position - list emails
+Community service opportunities, signup sheet
+Gallery of art 
+Bio of the club as well as what we plan to achieve
+Charities we plan on donating to, how to donate to them
+Progress bar to show the progress of our donation goal
+Separate page to show commissions, when different artists are available
+Establish rules for what is and is not up for drawing
+Pricing as well
+Maybe a Shopify for art, else we’ll have to use PayPal or something
+Future sales can be displayed on the main page or commissions or both, need to ask what we need
+
+
+me - treasurer / dev / ryabe26@oakwoodstudent.org
+
+sage - copresident sopfu26@oakwoodstudent.org
+
+milla - copresident / event planner milda24@oakwoodstudent.org
+
+max - scribe maxrh26@oakwoodstudent.org
