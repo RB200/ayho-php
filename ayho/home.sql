@@ -39,8 +39,6 @@ CREATE TABLE `events` (
 --
 
 INSERT INTO `events` (`name`, `description`, `time`, `date`) VALUES
-('art', 'arting', '12:00:00.000000', '2022-12-30'),
-('make art', 'we make art', '12:00:00.000000', '2022-12-27');
 
 -- --------------------------------------------------------
 
